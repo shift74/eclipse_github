@@ -5,6 +5,7 @@ public class PushPrint {
 		// TODO Auto-generated method stub
 		System.out.println("Hello PushPrint");
 		System.out.println("Hello YYYYYYY-------PushPrint");
+		System.out.println("Hello XXXXX--PushPrint");
 	}
 
 }
